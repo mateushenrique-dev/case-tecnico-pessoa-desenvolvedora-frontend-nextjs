@@ -1,6 +1,6 @@
 # Case Técnico — Pessoa Desenvolvedora Frontend | Next.js
 
-Seja bem-vindo(a) ao desafio técnico para **Desenvolvedor(a) Frontend** na **Alura**. 
+Seja bem-vindo(a) ao desafio técnico para **Desenvolvedor(a) Frontend** da **Alura**. 
 
 Neste case, você irá desenvolver uma aplicação front-end com base em um design do **[Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS)**, utilizando as tecnologias especificadas. Nosso objetivo é avaliar suas habilidades em **Next.js**, **TypeScript**, **Tailwind**, **boas práticas de desenvolvimento**, **SEO** e **acessibilidade**.
 
@@ -19,7 +19,6 @@ Não há respostas certas ou erradas. Queremos entender como você organiza seu 
 - Seguir **fielmente o design** fornecido no [Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS);
 - Entregar um layout **100% responsivo**;
 - Garantir **ótima performance** e carregamento rápido;
-- **Bônus**: Implementar **tema dark**.
 
 ---
 
@@ -28,7 +27,6 @@ Não há respostas certas ou erradas. Queremos entender como você organiza seu 
 1. Crie um repositório para o projeto no seu github e deixe-o público;
 2. Siga fielmente o design do **Figma** fornecido ([Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS));
 3. Estruture o projeto de forma organizada, utilizando boas práticas de componentização;
-5. **bônus** não é obrigatório, mas será considerado diferencial.
 
 ---
 
@@ -67,3 +65,9 @@ Sua tarefa é desenvolver uma aplicação que exiba uma **listagem de postagens*
 - Estrutura dos dados e integração com a **API mock**;
 - Clareza e legibilidade do código;
 - Implementação do **tema dark** (diferencial).
+
+---
+
+### **Bônus** (não é obrigatório)
+
+Use sua criativade, e implemente dark mode na aplicação, ajustando layout, paleta e componentes de forma consistente.
