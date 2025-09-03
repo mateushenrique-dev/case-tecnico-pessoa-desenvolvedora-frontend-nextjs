@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a) ao desafio técnico para **Desenvolvedor(a) Frontend** na **Alura**. 
 
-Neste case, você irá desenvolver uma aplicação front-end com base em um design do **Figma**, utilizando as tecnologias especificadas. Nosso objetivo é avaliar suas habilidades em **Next.js**, **TypeScript**, **Tailwind**, **boas práticas de desenvolvimento**, **SEO** e **acessibilidade**.
+Neste case, você irá desenvolver uma aplicação front-end com base em um design do **[Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS)**, utilizando as tecnologias especificadas. Nosso objetivo é avaliar suas habilidades em **Next.js**, **TypeScript**, **Tailwind**, **boas práticas de desenvolvimento**, **SEO** e **acessibilidade**.
 
 Não há respostas certas ou erradas. Queremos entender como você organiza seu código, estrutura os componentes, aplica boas práticas e entrega uma solução performática e consistente.
 
@@ -16,7 +16,7 @@ Não há respostas certas ou erradas. Queremos entender como você organiza seu 
 - **Consumir a API fake** para carregar as postagens;
 - Implementar boas práticas de **SEO**;
 - Implementar boas práticas de **acessibilidade**;
-- Seguir **fielmente o design** fornecido no Figma;
+- Seguir **fielmente o design** fornecido no [Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS);
 - Entregar um layout **100% responsivo**;
 - Garantir **ótima performance** e carregamento rápido;
 - **Bônus**: Implementar **tema dark**.
@@ -26,7 +26,7 @@ Não há respostas certas ou erradas. Queremos entender como você organiza seu 
 ## **Orientações**
 
 1. Crie um repositório para o projeto no seu github e deixe-o público;
-2. Siga fielmente o design do **Figma** fornecido;
+2. Siga fielmente o design do **Figma** fornecido ([Figma](https://www.figma.com/design/MOdixi2zYNtxwNyok05D6W/Desafio-NextJS));
 3. Estruture o projeto de forma organizada, utilizando boas práticas de componentização;
 5. **bônus** não é obrigatório, mas será considerado diferencial.
 
