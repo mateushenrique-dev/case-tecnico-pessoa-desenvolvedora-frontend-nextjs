@@ -12,7 +12,7 @@ Não há respostas certas ou erradas. Queremos entender como você organiza seu 
 
 - Utilizar **Next.js 15** com **App Router**;
 - Utilizar **TypeScript** com **tipagem segura**;
-- Utilizar **Tailwind CSS** para estilização;
+- Utilizar **Tailwind 4** para estilização;
 - **Consumir a API fake** para carregar as postagens;
 - Implementar boas práticas de **SEO**;
 - Implementar boas práticas de **acessibilidade**;
